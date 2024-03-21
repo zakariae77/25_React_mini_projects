@@ -1,0 +1,10 @@
+.star-rating{
+    background-color: rgb(117, 214, 182);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gold{
+    color: gold;
+}
